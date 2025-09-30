@@ -1,0 +1,21 @@
+"Feature
+VS Code
+PyCharm",""
+"Performance
+Lightweight, fast, low memory usage.
+Heavier, slower startup, more RAM usage.",""
+"Setup
+Needs extensions (Python, debugger, etc.).
+Built-in Python tools, less setup required.",""
+"File Automation
+Great for small scripts, flexible editing.
+Better for larger structured projects.",""
+"Web Scraping
+Good with extensions, easy multi-language.
+Stronger debugging & project organization.",""
+"Ease of Use
+Simple interface, flexible.
+Professional Python IDE, more features.",""
+"Best Use Case
+Small to medium automation scripts.
+Complex automation projects.",""
